@@ -3,6 +3,7 @@
    - [National Drug Code (NDC)](https://en.wikipedia.org/wiki/National_drug_code)
    - [FDA Format of the National Drug Code(NDC)](https://www.fda.gov/media/173715/download)
    - [Non-official NDC code lookup](https://ndclist.com/)
+   - [RegEx tool](https://regexr.com/)
 
 
 #### Finds 10-digit NDC (dashed) in 4-4-2 format:
