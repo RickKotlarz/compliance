@@ -1,6 +1,9 @@
 # Compliance Repo
 A collection of various sensitive data types, faux data type sample sets, and their associated regular expression queries. Data sets such as these are useful for demonstrating and testing information protection and compliance tool rules.
-#### National Drug Code (NDC)
+
+---
+
+#### National Drug Code (NDC) Regular Expression (RegEx)
  - References
    - [National Drug Code (NDC)](https://en.wikipedia.org/wiki/National_drug_code)
    - [FDA Format of the National Drug Code(NDC)](https://www.fda.gov/media/173715/download)
