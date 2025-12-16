@@ -44,6 +44,12 @@ Example (embedded): (987654-3210-9)
 Example: 01234567890 <br>
 Example (embedded): (01234567890)
 
+#### 11-digit NDC (dashes), HIPAA/CMS padded 5-4-2 format
+(?<!\d)\d{5}-\d{4}-\d{2}(?!\d)
+Example: 01234-5678-90 <br>
+Example (embedded): (01234-5678-90)
+
+
 #### 12-digit NDC (dashed), proposed uniform 6-4-2 format
 (?<!\d)\d{6}-\d{4}-\d{2}(?!\d) <br>
 Example: 123456-7890-12 <br>
