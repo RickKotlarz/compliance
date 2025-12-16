@@ -5,6 +5,39 @@
    - [Non-official NDC code lookup](https://ndclist.com/)
    - [RegEx tool](https://regexr.com/)
 
+NDC Keyword list:
+```
+Drug
+Code
+NDC
+Number
+Labeler
+Product
+Package
+Dosage
+Form
+Strength
+Size
+Type
+Manufacturer
+Repackager
+Relabeler
+Distributor
+Proprietary
+Generic
+FDA
+Directory
+DailyMed
+Listing
+Barcode
+Billing
+Claim
+RxCUI
+UNII
+Identifier
+```
+
+
 #### Digit-only NDC strings of length 10, 11, or 12 (with or without dashes) format
 
 (?<!\d)(?:\d{4}-\d{4}-\d{2}|\d{5}-\d{3}-\d{2}|\d{5}-\d{4}-\d{1}|\d{6}-\d{3}-\d{2}|\d{6}-\d{4}-\d{1}|\d{6}-\d{4}-\d{2}|\d{10}|\d{11}|\d{12})(?!\d)
